@@ -1,0 +1,6 @@
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\obj\Debug\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\Zsibók Márk\source\repos\Challenge\Challenge\obj\Debug\Challenge.pdb
