@@ -1,6 +1,6 @@
 language: csharp
-solution: /Challenge/Challenge.sln
+solution: Challenge.sln
 install:
   - sudo apt-get install -y gtk-sharp2
   - ls -la
-  - nuget restore /Challenge/Challenge.sln
+  - nuget restore Challenge.sln
