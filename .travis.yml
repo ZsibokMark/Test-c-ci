@@ -1,6 +1,5 @@
-﻿language: csharp
-solution: "/Challenge/Challenge.sln"
+language: csharp
+solution: /Challenge/Challenge.sln
 install:
-    - travis_retry nuget restore -source "https://www.nuget.org/api/v2" /Challenge/Challenge.sln
-script:
-    - ./build.sh
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore /Challenge/Challenge.sln
